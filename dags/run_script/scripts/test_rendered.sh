@@ -1,0 +1,1 @@
+echo 'Execution Date: {{ ds }}'
